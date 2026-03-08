@@ -39,4 +39,4 @@ A professional web application designed for structured data management, built us
 
 1. **Clone the repository:**
    ```bash
-   git clone [INSERT_YOUR_GITHUB_URL_HERE]
+   git clone https://github.com/Fahim-KUET101/ASP-MVC-CRUD-Student-Portal-
